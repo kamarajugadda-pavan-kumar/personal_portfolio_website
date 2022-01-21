@@ -3,9 +3,9 @@ export const projects = [
     title: 'Find-dishes',
     description: "Using Node.js, Express & MongoDB Full Stack MEN Application was built- from start to finish. The app is a useful guide for foodies to find recepie about their favourite dish.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Mongo', 'Express', 'Node'],
+    source: 'https://github.com/kamarajugadda-pavan-kumar/find-dishes',
+    visit: 'https://find-dishes.herokuapp.com/',
     id: 0,
   },
   {
