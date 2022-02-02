@@ -13,9 +13,9 @@ const Hero = (props) => (
           </SectionTitle>
 
           <SectionText>
-              The purpoose of Javascript library is to level up one self in interactive programming.
+              Click on Resume button to have a look at my resume
           </SectionText>
-          <Button alt={true} onClick={()=>window.location.assign('https:google.com')}>Learn More</Button>
+          <Button alt={true} onClick={()=>window.location.assign("https://drive.google.com/file/d/1eEaIS_bW26VYYZuJ1Rwp3Z8a6E5jMdns/view?usp=sharing")}>Resume</Button>
       </LeftSection>
   </Section>
 );

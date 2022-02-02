@@ -16,32 +16,46 @@ const Technologies = () =>  (
                         Front-End
                     </ListTitle>
                     <ListParagraph>
-                        Experience with<br/> react.js
+                        react.js <br/> HTML & CSS<br/> bootstrap
                     </ListParagraph>
                 </ListContainer>
-            </ListItem>
-            <ListItem>
+                </ListItem>
+
+                <ListItem>
                 <DiFirebase size='3rem' />
                 <ListContainer>
                     <ListTitle>
                         Backend
                     </ListTitle>
                     <ListParagraph>
-                        Experience with<br/> Node
+                         Node.js <br/> Express.js<br/> MongoDB
                     </ListParagraph>
                 </ListContainer>
-            </ListItem>
-            <ListItem>
+                </ListItem>
+
+                <ListItem>
                 <DiFirebase size='3rem' />
                 <ListContainer>
                     <ListTitle>
                         UI/UX
                     </ListTitle>
                     <ListParagraph>
-                        Experience with<br/> react.js
+                         Adobe Xd
                     </ListParagraph>
                 </ListContainer>
-            </ListItem>
+                </ListItem>
+
+                <ListItem>
+                <DiFirebase size='3rem' />
+                <ListContainer>
+                    <ListTitle>
+                        Programming languages
+                    </ListTitle>
+                    <ListParagraph>
+                        C++ <br/> python<br/>Javascript <br/>Data structures <br/> Algorithms
+                    </ListParagraph>
+                </ListContainer>
+                </ListItem>
         </List>
     </Section>
 );
