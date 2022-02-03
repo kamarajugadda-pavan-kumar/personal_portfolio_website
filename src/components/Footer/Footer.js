@@ -19,7 +19,6 @@ const Footer = () => {
         </LinkList>
         <SocialIconsContainer>
             <CompanyContainer>
-                <Slogan>Innovating one project</Slogan>
                     <SocialIconsContainer>
                     <SocialIcons href="https://github.com/kamarajugadda-pavan-kumar">
                         <AiFillGithub size='3rem' />
